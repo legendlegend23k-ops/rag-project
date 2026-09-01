@@ -1,0 +1,27 @@
+{
+  "d2cddebee2fd052351af5e2d05abd45b6a5c614f4f1e0f007cb3064f4de02e33": {
+    "text": "Python Programming\nA Comprehensive Overview of the Language\nGenerated for Python Learner • 2026\nPage 1",
+    "source": "python_overview.pdf",
+    "page": 1
+  },
+  "180a33fea4eefaac25055de9fe305cd755e6ba8f26a680adec44a1b545e3c051": {
+    "text": "1. Introduction to Python\nPython was created in the early 1990s by Guido van Rossum at the Centrum Wiskunde & Informatica\n(CWI) in the Netherlands as a successor to the ABC programming language. Guido van Rossum named\nPython after the British television comedy series Monty Python's Flying Circus, reflecting his desire for\nthe language to be fun and engaging to use.\nFrom its inception, Python was designed with a heavy emphasis on code readability and clean syntax. Its\ncore philosophy is summarized in the document The Zen of Python, which highlights principles such as\n\"beautiful is better than ugly,\" \"explicit is better than implicit,\" and \"simple is better than complex.\" These\nguiding tenets have helped Python grow from a modest scripting language into one of the most dominant\nand influential programming languages in modern software engineering.\nCore Design Philosophy: Python emphasizes developer productivity over machine efficiency. By\nreducing the cognitive load required to read and write code, it enables rapid prototyping and\nmaintainable software development across teams of any size. \nPage 2",
+    "source": "python_overview.pdf",
+    "page": 2
+  },
+  "5b11295fecccc5b648e2a648dc75949b18cf00d15a0ffb520beb6d9fe3c3f3c1": {
+    "text": "2. Syntax and Design Philosophy\nOne of Python's most distinctive features is its use of significant whitespace to delimit code blocks rather\nthan curly braces or keywords commonly found in languages like C, C++, or Java. This enforces a\nuniform coding style across all Python projects, making code written by unfamiliar developers instantly\nrecognizable and easier to comprehend.\nPython supports multiple programming paradigms, making it exceptionally versatile. Developers can\nwrite code using procedural styles, adopt object-oriented principles with classes and inheritance, or\nleverage functional programming constructs such as lambda expressions, map, filter, and list\ncomprehensions. This multi-paradigm nature ensures that developers can choose the best tool for the\nspecific problem they are trying to solve.\nFurthermore, Python is dynamically typed, meaning that variable types are checked during execution\nrather than at compile time. While this offers immense flexibility and faster initial coding speed, the\nlanguage has evolved to support optional type hints, allowing developers to introduce static analysis tools\nfor large-scale enterprise codebases.\nPage 3",
+    "source": "python_overview.pdf",
+    "page": 3
+  },
+  "bcd190aabebe443a1e2f2d6338a37eeae9aaec5e3f45d3b6ebea6bce48c039bc": {
+    "text": "3. The Python Ecosystem and Standard Library\nPython is famously shipped with a comprehensive \"batteries-included\" standard library that provides\nbuilt-in modules for handling file I/O, regular expressions, mathematical operations, internet protocols,\nand data serialization formats like JSON and XML. This reduces the need to write boilerplate code or rely\non third-party packages for common foundational tasks.\nBeyond the standard library, Python boasts the Python Package Index (PyPI), a massive centralized\nrepository containing hundreds of thousands of open-source third-party libraries. Tools like pip make\ninstalling and managing dependencies straightforward and efficient.\nIn domains such as data science and machine learning, libraries like NumPy, Pandas, Scikit-Learn,\nTensorFlow, and PyTorch have established Python as the undisputed industry standard. Similarly, for\nweb development and automation, frameworks like Django, Flask, and FastAPI empower developers to\nbuild robust web applications and microservices rapidly.\nPage 4",
+    "source": "python_overview.pdf",
+    "page": 4
+  },
+  "b26b023838ce6dc989b09d10a61eafce2c2c38933b9d1130e8bfb14b4e0067ec": {
+    "text": "4. Modern Applications and Future\nToday, Python's applications span virtually every sector of the technology landscape. It powers backend\nweb infrastructure for global tech giants, drives quantitative financial models in banking, automates cloud\ninfrastructure operations, and serves as the primary language for cutting-edge artificial intelligence\nresearch and development.\nThe Python community remains vibrant and active, with continuous performance improvements being\nintroduced in recent releases. Initiatives like faster startup times, optimized memory management, and\nongoing exploration of sub-interpreters ensure that Python will remain competitive, scalable, and relevant\nfor high-performance computing workloads for decades to come.\nIn conclusion, Python's enduring popularity is a testament to its harmonious balance of simplicity,\nreadability, and power. Whether you are an absolute beginner writing your first script or an experienced\narchitect designing large-scale distributed systems, Python provides an elegant and effective\nenvironment to bring your ideas to life.\nPage 5",
+    "source": "python_overview.pdf",
+    "page": 5
+  }
+}
