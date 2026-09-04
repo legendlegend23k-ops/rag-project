@@ -3,13 +3,17 @@ import asyncio
 from app.hybrid_search import hybrid_search
 from app.parent_retrieval import retrieve_parents
 from app.reranker import rerank
-from app.generator import generate_answer
+from app.generator import generate_answer_stream
 
 
-def run_rag(query):
-
+def run_rag_stream(query, bm25, bm25_data):
     child_results = asyncio.run(
-        hybrid_search(query, top_k=20)
+        hybrid_search(
+            query,
+            bm25,
+            bm25_data,
+            top_k=20
+        )
     )
 
     parent_results = retrieve_parents(
@@ -23,9 +27,5 @@ def run_rag(query):
         top_k=3
     )
 
-    answer = generate_answer(
-        query,
-        final_results
-    )
-
-    return answer
+    for chunk in generate_answer_stream(query, final_results):
+        yield chunk

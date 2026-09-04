@@ -32,9 +32,7 @@ def build_bm25():
     return bm25, data
 
 
-def bm25_search(query, top_k=20):
-
-    bm25, data = build_bm25()
+def bm25_search(query, bm25, data, top_k=20):
 
     tokenized_query = query.lower().split()
 

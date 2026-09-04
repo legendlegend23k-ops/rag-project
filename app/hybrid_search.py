@@ -5,7 +5,7 @@ from app.bm25_search import bm25_search
 from app.rrf import reciprocal_rank_fusion
 
 
-async def hybrid_search(query, top_k=20):
+async def hybrid_search(query, bm25, bm25_data, top_k=20):
 
     vector_task = asyncio.to_thread(
         vector_search,
@@ -16,6 +16,8 @@ async def hybrid_search(query, top_k=20):
     bm25_task = asyncio.to_thread(
         bm25_search,
         query,
+        bm25,
+        bm25_data,
         top_k
     )
 

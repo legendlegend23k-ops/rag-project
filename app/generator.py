@@ -1,12 +1,10 @@
 from google import genai
-
 from app.config import GEMINI_API_KEY
 
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
-def generate_answer(query, results):
-
+def generate_answer_stream(query, results):
     context = "\n\n".join(
         result["text"]
         for result in results
@@ -31,9 +29,13 @@ User question:
 Answer:
 """
 
-    response = client.models.generate_content(
-        model="gemini-3.6-flash",
-        contents=prompt
+    response = client.models.generate_content_stream(
+        model="gemini-3.5-flash",
+        contents=prompt,
+        config={
+            "temperature": 0.2,
+        }
     )
 
-    return response.text
+    for chunk in response:
+        yield chunk.text

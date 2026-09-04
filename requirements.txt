@@ -5,3 +5,5 @@ langchain-text-splitters
 rank-bm25
 google-genai
 python-dotenv
+fastapi
+uvicorn[standard]
