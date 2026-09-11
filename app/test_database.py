@@ -6,19 +6,10 @@ connection = get_connection()
 cursor = connection.cursor()
 
 cursor.execute("""
-    CREATE TABLE IF NOT EXISTS documents (
-        id INTEGER PRIMARY KEY,
-        filename TEXT NOT NULL
-    )
+    CREATE INDEX idx_documents_user_id
+    ON documents(user_id)
 """)
 
-cursor.execute("""
-    INSERT INTO documents (filename)
-    VALUES (?)
-""", ("example.pdf",))
-
 connection.commit()
-
-print("Document inserted.")
 
 connection.close()

@@ -1,27 +1,184 @@
 {
-  "d2cddebee2fd052351af5e2d05abd45b6a5c614f4f1e0f007cb3064f4de02e33": {
+  "d65ec463aacea8c0790915a13e8c4846f499a25a17039b5d7fd78e861a81523a": {
     "text": "Python Programming\nA Comprehensive Overview of the Language\nGenerated for Python Learner • 2026\nPage 1",
     "source": "python_overview.pdf",
-    "page": 1
+    "page": 1,
+    "user_id": 0,
+    "document_id": 0
   },
-  "180a33fea4eefaac25055de9fe305cd755e6ba8f26a680adec44a1b545e3c051": {
+  "2b9afbdf823348e99f788611a22de889fe98433ba6911d07d85f8ea5a76f4fb2": {
     "text": "1. Introduction to Python\nPython was created in the early 1990s by Guido van Rossum at the Centrum Wiskunde & Informatica\n(CWI) in the Netherlands as a successor to the ABC programming language. Guido van Rossum named\nPython after the British television comedy series Monty Python's Flying Circus, reflecting his desire for\nthe language to be fun and engaging to use.\nFrom its inception, Python was designed with a heavy emphasis on code readability and clean syntax. Its\ncore philosophy is summarized in the document The Zen of Python, which highlights principles such as\n\"beautiful is better than ugly,\" \"explicit is better than implicit,\" and \"simple is better than complex.\" These\nguiding tenets have helped Python grow from a modest scripting language into one of the most dominant\nand influential programming languages in modern software engineering.\nCore Design Philosophy: Python emphasizes developer productivity over machine efficiency. By\nreducing the cognitive load required to read and write code, it enables rapid prototyping and\nmaintainable software development across teams of any size. \nPage 2",
     "source": "python_overview.pdf",
-    "page": 2
+    "page": 2,
+    "user_id": 0,
+    "document_id": 0
   },
-  "5b11295fecccc5b648e2a648dc75949b18cf00d15a0ffb520beb6d9fe3c3f3c1": {
+  "1afe44b273735f5e0bcee8e3c5947c19dabc1a9f55b933796403a5792e851d28": {
     "text": "2. Syntax and Design Philosophy\nOne of Python's most distinctive features is its use of significant whitespace to delimit code blocks rather\nthan curly braces or keywords commonly found in languages like C, C++, or Java. This enforces a\nuniform coding style across all Python projects, making code written by unfamiliar developers instantly\nrecognizable and easier to comprehend.\nPython supports multiple programming paradigms, making it exceptionally versatile. Developers can\nwrite code using procedural styles, adopt object-oriented principles with classes and inheritance, or\nleverage functional programming constructs such as lambda expressions, map, filter, and list\ncomprehensions. This multi-paradigm nature ensures that developers can choose the best tool for the\nspecific problem they are trying to solve.\nFurthermore, Python is dynamically typed, meaning that variable types are checked during execution\nrather than at compile time. While this offers immense flexibility and faster initial coding speed, the\nlanguage has evolved to support optional type hints, allowing developers to introduce static analysis tools\nfor large-scale enterprise codebases.\nPage 3",
     "source": "python_overview.pdf",
-    "page": 3
+    "page": 3,
+    "user_id": 0,
+    "document_id": 0
   },
-  "bcd190aabebe443a1e2f2d6338a37eeae9aaec5e3f45d3b6ebea6bce48c039bc": {
+  "4a079b83c4ff18cc0a2143405ea740c22c69f742698daf103d17d374e86071bc": {
     "text": "3. The Python Ecosystem and Standard Library\nPython is famously shipped with a comprehensive \"batteries-included\" standard library that provides\nbuilt-in modules for handling file I/O, regular expressions, mathematical operations, internet protocols,\nand data serialization formats like JSON and XML. This reduces the need to write boilerplate code or rely\non third-party packages for common foundational tasks.\nBeyond the standard library, Python boasts the Python Package Index (PyPI), a massive centralized\nrepository containing hundreds of thousands of open-source third-party libraries. Tools like pip make\ninstalling and managing dependencies straightforward and efficient.\nIn domains such as data science and machine learning, libraries like NumPy, Pandas, Scikit-Learn,\nTensorFlow, and PyTorch have established Python as the undisputed industry standard. Similarly, for\nweb development and automation, frameworks like Django, Flask, and FastAPI empower developers to\nbuild robust web applications and microservices rapidly.\nPage 4",
     "source": "python_overview.pdf",
-    "page": 4
+    "page": 4,
+    "user_id": 0,
+    "document_id": 0
   },
-  "b26b023838ce6dc989b09d10a61eafce2c2c38933b9d1130e8bfb14b4e0067ec": {
+  "c293df60cd12ab5e07a012ee596f1626359c9ede5aa305e7a4e3a911c914781a": {
     "text": "4. Modern Applications and Future\nToday, Python's applications span virtually every sector of the technology landscape. It powers backend\nweb infrastructure for global tech giants, drives quantitative financial models in banking, automates cloud\ninfrastructure operations, and serves as the primary language for cutting-edge artificial intelligence\nresearch and development.\nThe Python community remains vibrant and active, with continuous performance improvements being\nintroduced in recent releases. Initiatives like faster startup times, optimized memory management, and\nongoing exploration of sub-interpreters ensure that Python will remain competitive, scalable, and relevant\nfor high-performance computing workloads for decades to come.\nIn conclusion, Python's enduring popularity is a testament to its harmonious balance of simplicity,\nreadability, and power. Whether you are an absolute beginner writing your first script or an experienced\narchitect designing large-scale distributed systems, Python provides an elegant and effective\nenvironment to bring your ideas to life.\nPage 5",
     "source": "python_overview.pdf",
-    "page": 5
+    "page": 5,
+    "user_id": 0,
+    "document_id": 0
+  },
+  "02678ffb6b6ba74d3df8f06173e590dbaea231e1c9989e1dfc77350f0e52af5b": {
+    "text": "Name : ……………………… \nDate : ………………………. \nModule 16 \nWorld War II \n\nLesson. 1: World War II Begins \n1. What was the Treaty of Versailles? \n a. A treaty signed at Versailles palace in Paris to celebrate the end of World \nWar I. \nb. A treaty that placed terms of peace between the victorious allies and \nGermany, which was considered responsible for starting the war. \nc. A treaty that gave Germany control over Czechoslovakia. \nd. A treaty that prohibited Germany from entering into any agreements or \nalliances with other countries. \n2. What did Adolf Hitler want to do with Czechoslovakia? \na. He wanted to return it back to Germany. \nb. He wanted to invade and conquer it. \nc. He wanted to negotiate a nonaggression pact with Czechoslovakia. \nd. He wanted to create an alliance with Czechoslovakia. \nAnswer : a \n3. What was the outcome of the Munich Conference? \na. France and Great Britain gave Germany a specific area of Czechoslovakia. \nb. France and Great Britain declared war against Germany. \nc. Czechoslovakia agreed to return Danzig to Germany. \nd. Churchill became angry with the appeasement. \n4. Why did Britain and France declare war against Germany? \na. Germany invaded Poland. \nb. Germany occupied Denmark, Norway, Belgium, and the Netherlands.",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 1,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "76ff92fc2db0f7ec63e0feb8519675f230ef7fecabb2b20328115f67c4b590cb": {
+    "text": "c. Germany signed a nonaggression pact with the Soviet Union. \nd. Germany demanded that Poland return the city of Danzig. \n5. What marked the beginning of World War II? \na. Germany's invasion of Poland. \nb. The occupation of Denmark, Norway, Belgium, and the Netherlands. \nc. The signing of the Treaty of Versailles. \nd. The Munich Conference. \n6. What were Italy and Germany known as during World War II? \na. Allied powers \nb. Axis powers \nc. Central powers \nd. Neutral powers \nAnswer: b \n7. What event led to France's surrender to Germany? \na. The Battle of Britain \nb. The invasion of the Soviet Union \nc. The signing of the Atlantic Charter \nd. The Battle of France \n8. Which system allowed the Allies to buy U.S. war supplies and transport them \nback to Europe? \na. The Cash & Carry system \nb. The Lend-Lease Act \nc. The Neutrality Act \nd. The Atlantic Charter \n9. Who froze Japanese funds in the USA and demanded that Japanese troops \nleave China? \na. Winston Churchill \nb. Joseph Stalin \nc. Franklin D. Roosevelt \nd. Adolf Hitler",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 2,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "769ce7254a0438e558f2a5c3bcb957a03c303edc3809eac7cc96f852c8a9f0c4": {
+    "text": "10. What event prompted the United States to declare war against Japan? \na. The surprise attack on Pearl Harbor \nb. Germany's invasion of the Soviet Union \nc. The signing of the Atlantic Charter \nd. The Battle of Britain \n11. Which country declared war on the USA as an ally of Japan? \na. Italy \nb. Germany \nc. France \nd. Soviet Union \n\n2.Answer the Following: \n1. Discuss the impact of the Treaty of Versailles on Germany and its role in \ncontributing to the rise of Adolf Hitler. \n……………………………………………………………………………………………\n……………………………………………………………………………………………\n………………………………………………………………………………………….., \n\n2. What did France and Great Britain give the Germans at the Munich \nConference? \n…………………………………………………………………………………………… \n3. What was the first treaty signed at Versailles palace in Paris by the end of \nWorld War I? \n…………………………………………………………………………………………… \n\n4. What did Adolf Hitler do to Austria? \n……………………………………………………………………………………………",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 3,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "084662817a9c9298593d9d223434173502f881e1992c41d2e8bbe409afc916c1": {
+    "text": "5. What was the Battle of Britain about, and who emerged victorious? \n……………………………………………………………………………………………\n……………………………………………………………………………………………\n………………………………………………………………………………………….., \n\n6. What did Hitler want to return to Germany, and what was the response? \n……………………………………………………………………………………………\n………………………………………………………………………………………… \n7. What did the nonaggression pact between the Soviet Union and Germany \nentail? \n………………………………………………………………………………………… \n8. What system did the Congress approve to allow the Allies to buy U.S. war \nsupplies? \n………………………………………………………………………………………… \n9. What actions did President Roosevelt take against Japan before the attack \non Pearl Harbor? \n……………………………………………………………………………………………\n………………………………………………………………………………………….., \n10. What did Hitler want to return to Germany, and what was the response? \n……………………………………………………………………………………………\n………………………………………………………………………………………….., \n11. What did the Germans want to control during the Battle of Britain? \n…………………………………………………………………………………………… \n\n2) Put (T) or (F). If false, and correct the mistakes if found: \n1. Hitler forced Italy to unite with Germany ( ) \n…………………………………………………………………………………………… \n2. Hitler wanted to return Czechoslovakia back to Germany, and when the \nCzechs refused, he threatened for war ( ) \n……………………………………………………………………………………………",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 4,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "5a3423603a3075c38eab3507b131ff19f8fb629954233d4b0da87cb009bf203e": {
+    "text": "3. France & Great Britain gave the Germans a specific area of Czechoslovakia \nat the Munich Conference ( ) \n…………………………………………………………………………………………… \n4. Hitler took the rest of Czechoslovakia by force ( ) \n…………………………………………………………………………………………… \n5. Hitler demanded that Poland should return the German city of Danzig ( ) \n…………………………………………………………………………………………… \n6. Hitler secretly negotiated a nonaggression pact with the Soviet leaders \n“Stalin” ( ) \n…………………………………………………………………………………………… \n7. Britain invaded Poland from the West, while the Soviets invaded it from the \nEast ( ) \n…………………………………………………………………………………………… \n8. Britain & Italy (The Allied forces) declared war against Germany immediately \nafter the invasion of Poland ( ) \n…………………………………………………………………………………………… \n9. Germans occupied Denmark, Norway, Belgium & Netherlands, allowing them \nto invade France from the North ( ) \n…………………………………………………………………………………………… \n10. Italy & Germany were known as the (Axis powers) ( ) \n…………………………………………………………………………………………… \n11. In 1940, France surrendered to Britain, so Hitler prepared to invade Britain \n( ) \n…………………………………………………………………………………………… \n12. The Battle of Britain it was the battle between Germany & Britain when the \nGermans wanted to control the British Royal Air forces, but the Radar helped to \ndetect the German forces, and the British won ( ) \n…………………………………………………………………………………………… \n13. Although most of the American opposed Hitler, they did not want to fight in a \nEuropean war, as some of those Americans preferred isolationism ( ) \n……………………………………………………………………………………………",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 5,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "ef28d8c6d06db1a3ac059075a61c30ace71acb6727eb33701fd35084de219025": {
+    "text": "14. The Congress refused “the Cash & Carry system”, which let the Allies pay \ncash to buy U.S. war supplies, then carry those supplies back to Europe on \ntheir own ships ( ) \n…………………………………………………………………………………………… \n15. The U.S. president Roosevelt, asked the congress to pass “The Lend-Lease \nAct”, in order to lend money to Britain to buy war supplies ( ) \n…………………………………………………………………………………………… \n16. The Atlantic charter it was the document signed by Roosevelt & Stalin in \nwhich they agreed to work for peace after the war comes to an end ( ) \n…………………………………………………………………………………………… \n17. In 1940, Japan officially joined the Axis powers ( ) \n…………………………………………………………………………………………… \n18. The Japanese launched a surprise attack on the British forces at Pearl \nHarbor ( ) \n……………………………………………………………………………………………",
+    "source": "New_Wrksht_-_L.1_World_War_II_Begins (1).pdf",
+    "page": 6,
+    "user_id": 1,
+    "document_id": 1
+  },
+  "b779e53c5e12a80ebe5cc754ecade39b9ae07494e2afddce4ec7636b3b9959fb": {
+    "text": "Python Programming\nA Comprehensive Overview of the Language\nGenerated for Python Learner • 2026\nPage 1",
+    "source": "python_overview.pdf",
+    "page": 1,
+    "user_id": 1,
+    "document_id": 2
+  },
+  "5d92e6fe2c603c0cc989fdb37a80509de49662994e25dc17ae7d8c552df1922c": {
+    "text": "1. Introduction to Python\nPython was created in the early 1990s by Guido van Rossum at the Centrum Wiskunde & Informatica\n(CWI) in the Netherlands as a successor to the ABC programming language. Guido van Rossum named\nPython after the British television comedy series Monty Python's Flying Circus, reflecting his desire for\nthe language to be fun and engaging to use.\nFrom its inception, Python was designed with a heavy emphasis on code readability and clean syntax. Its\ncore philosophy is summarized in the document The Zen of Python, which highlights principles such as\n\"beautiful is better than ugly,\" \"explicit is better than implicit,\" and \"simple is better than complex.\" These\nguiding tenets have helped Python grow from a modest scripting language into one of the most dominant\nand influential programming languages in modern software engineering.\nCore Design Philosophy: Python emphasizes developer productivity over machine efficiency. By\nreducing the cognitive load required to read and write code, it enables rapid prototyping and\nmaintainable software development across teams of any size. \nPage 2",
+    "source": "python_overview.pdf",
+    "page": 2,
+    "user_id": 1,
+    "document_id": 2
+  },
+  "647d7b88e26c6234287af94884f780b16b731f107e920cbaaee1c57f63e44766": {
+    "text": "2. Syntax and Design Philosophy\nOne of Python's most distinctive features is its use of significant whitespace to delimit code blocks rather\nthan curly braces or keywords commonly found in languages like C, C++, or Java. This enforces a\nuniform coding style across all Python projects, making code written by unfamiliar developers instantly\nrecognizable and easier to comprehend.\nPython supports multiple programming paradigms, making it exceptionally versatile. Developers can\nwrite code using procedural styles, adopt object-oriented principles with classes and inheritance, or\nleverage functional programming constructs such as lambda expressions, map, filter, and list\ncomprehensions. This multi-paradigm nature ensures that developers can choose the best tool for the\nspecific problem they are trying to solve.\nFurthermore, Python is dynamically typed, meaning that variable types are checked during execution\nrather than at compile time. While this offers immense flexibility and faster initial coding speed, the\nlanguage has evolved to support optional type hints, allowing developers to introduce static analysis tools\nfor large-scale enterprise codebases.\nPage 3",
+    "source": "python_overview.pdf",
+    "page": 3,
+    "user_id": 1,
+    "document_id": 2
+  },
+  "d876a0af831d07eacdb760b24964db7306fe1a8632531bb68f7002f310d055b2": {
+    "text": "3. The Python Ecosystem and Standard Library\nPython is famously shipped with a comprehensive \"batteries-included\" standard library that provides\nbuilt-in modules for handling file I/O, regular expressions, mathematical operations, internet protocols,\nand data serialization formats like JSON and XML. This reduces the need to write boilerplate code or rely\non third-party packages for common foundational tasks.\nBeyond the standard library, Python boasts the Python Package Index (PyPI), a massive centralized\nrepository containing hundreds of thousands of open-source third-party libraries. Tools like pip make\ninstalling and managing dependencies straightforward and efficient.\nIn domains such as data science and machine learning, libraries like NumPy, Pandas, Scikit-Learn,\nTensorFlow, and PyTorch have established Python as the undisputed industry standard. Similarly, for\nweb development and automation, frameworks like Django, Flask, and FastAPI empower developers to\nbuild robust web applications and microservices rapidly.\nPage 4",
+    "source": "python_overview.pdf",
+    "page": 4,
+    "user_id": 1,
+    "document_id": 2
+  },
+  "d6f8e80bdcfb7d370420a24e42598b1502ab7ac76ea20d26cc3187b8b2a019c6": {
+    "text": "4. Modern Applications and Future\nToday, Python's applications span virtually every sector of the technology landscape. It powers backend\nweb infrastructure for global tech giants, drives quantitative financial models in banking, automates cloud\ninfrastructure operations, and serves as the primary language for cutting-edge artificial intelligence\nresearch and development.\nThe Python community remains vibrant and active, with continuous performance improvements being\nintroduced in recent releases. Initiatives like faster startup times, optimized memory management, and\nongoing exploration of sub-interpreters ensure that Python will remain competitive, scalable, and relevant\nfor high-performance computing workloads for decades to come.\nIn conclusion, Python's enduring popularity is a testament to its harmonious balance of simplicity,\nreadability, and power. Whether you are an absolute beginner writing your first script or an experienced\narchitect designing large-scale distributed systems, Python provides an elegant and effective\nenvironment to bring your ideas to life.\nPage 5",
+    "source": "python_overview.pdf",
+    "page": 5,
+    "user_id": 1,
+    "document_id": 2
+  },
+  "2a13fb836a19dd365ea0827f674d61b223a190a9d669f74715db6d6408cee126": {
+    "text": "The Declaration of \nIndependence\nBY THOMAS JEFFERSON",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 1,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "19c00d8158a47d2e38bb7deab78f407e15331209519be6f222904857cef0b9af": {
+    "text": "Analyze Foundational Documents: Theme \nand Rhetorical Features (LINES 8–17)\nA text’s theme, or main meaning, can be stated directly or must be inferred.\nCITE TEXT EVIDENCE Read lines 8–17 and identify the main subject of the passage. \n(identifying people’s rights under government) \nLook for a word or phrase that best describes or summarizes Jefferson’s opinion of the main \nsubject. \n(“[W]henever any form of government becomes destructive of these ends, it is the right of \nthe people to alter or abolish it, and to institute a new government. . . . “ [lines 13–15]) \nRestate the theme. \n(People have a right to a government that respects their rights, the right to overturn a \ngovernment that does not, and the right to establish a new one.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 2,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "fa245001128da1a91c6de3969618f26c971aa12f2a680cfa15ec9663d927c515": {
+    "text": "Analyze Structure: Style and Content \n(LINES 28–31)\nA writer expresses style through word choice, sentence length, and tone—the writer’s attitude \ntoward the subject.\nCITE TEXT EVIDENCE: Identify the words in lines 28–31 that have the strongest connotations, or \nemotional impact. \n(repeated injuries and usurpations, absolute tyranny) \nWhy Jefferson might have chosen these words. \n(to emphasize how badly the British government was treating the colonies) \nReread the lines and describe Jefferson’s tone, citing supporting words and phrases.",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 3,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "78a13e4958c8590affac2d6fdde051ae5b2c1469fbb2b11a2797aac6d57fee21": {
+    "text": "Analyze Foundational Documents: Theme \nand Rhetorical Features (LINES 32–58)\nRhetorical features include all the methods a writer uses to communicate ideas and appeal to \nreaders. One rhetorical feature is repetition, repeating words and phrases to reinforce meaning \nand to create rhythm.\nCITE TEXT EVIDENCE: Read this page and identify what is repeated.\n(“He has” at the beginning of each sentence) \nWhat effect this repetition has on the reader. \n(It emphasizes the king’s many offenses, creating a rhythm that hammers home the point to \nreaders.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 4,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "9ef19462324a7173afe587754e4e950a49d140e63cdd45a8886d1a1f89aad610": {
+    "text": "Analyze Structure: Style and Content \n(LINES 42–47)\nSyntax is the way words, phrases, and clauses are arranged in sentences. Repeating the opening \nwords (“He has”) of these sentences might have dulled their impact over time, failing to keep the \nreader’s interest. Instead, Jefferson varies the rhythm and content of the words that follow them. The \nphrase “for the sole purpose of fatiguing them into compliance with his measure” in lines 44–45. How \nthis phrase enlivens the sentence by varying its rhythm and adding information about the king’s \nactions—in this case, about his motivation.\nCITE TEXT EVIDENCE: Reread lines 42–47 and find another phrase that tells about an action. \n(“with manly firmness,” line 47) \nRead the sentence without the phrase and then tell how the phrase affects the rhythm of the \nsentence. \n(It breaks up the sentence’s rhythm, making readers pause to pay attention.) \nThen ask students how they think this phrase engages the reader’s sympathies. \n(By characterizing the representatives’ opposition as “manly” and “firm,” both positive qualities, \nJefferson makes the reader feel that they must be in the right.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 5,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "e7534d3099e052a2433930eb6f59877e7a97889bfa01a48c9a1f98996b1f29e1": {
+    "text": "Analyze Structure: Style and Content \n(LINES 90–97)\nTone is the writer’s attitude toward the subject. The use of words with strong connotations, or \nemotional associations, expresses the author’s tone.\nCITE TEXT EVIDENCE: Read lines 90–97 aloud. Paraphrase these sentences using neutral \nlanguage. \n(The King is sending in foreign troops to subdue the colonies. He has forced colonists \ntaken into custody at sea to serve in his occupying army.)\nDescribe Jefferson’s actual tone. \n(indignant, even angry) \nWhich specific words contribute most to this tone. \n(desolation, tyranny: line 91; cruelty, perfidy: line 92; barbarous: line 93; executioners: line 96; \nbrethren: line 97)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 6,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "b3f2469c141c73c68fe21cda421d7f97dee8a3d910b15d07f939b5c8540c84e4": {
+    "text": "Analyze Foundational Documents: \nRhetorical Features (LINES 107–114)\nParallelism is the use of similar grammatical structures to emphasize the relationship among \nideas or show that they have equal weight or importance.\nRead lines 107–114, noticing examples of parallelism. Then, work with partners, taking turns \nreading these lines aloud. Allow time for partners to compare and contrast the effect of the \nparallelism when read silently and heard aloud.\nCITE TEXT EVIDENCE: Cite examples of parallelism. \n(Each sentence begins with the subject “we” followed by a present perfect tense verb: “We \nhave warned them; We have reminded them; We have appealed to their native justice; we have \nconjured them.” All but the second to last follow the verb with the pronoun “them.”) \nThen ask how these ideas are related. \n(They are ways the founders have tried to resolve their problems with Britain peacefully.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 7,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "bceb1fb908a8da3def9215e4ed93d32c1c8784e56e27af16e630a6459f86bec4": {
+    "text": "Analyze Structure: Style and Content \n(LINES 111–114)\nJefferson chose his words carefully to achieve his purpose of convincing “a candid world” to support American \nindependence.\nCITE TEXT EVIDENCE: List the words in these lines that help Jefferson persuade readers that the colonists have \ndone their best to work with the British people. \n(native justice, magnanimity, conjured, common kindred)\nAnalyze Foundational Documents: Theme and Rhetorical Features (LINES 123–130)\nIn these lines Jefferson combines parallelism and repetition to reinforce his theme.\nCITE TEXT EVIDENCE: Find examples of parallelism and repetition in this paragraph. \n(parallelism: clauses beginning with “that” in lines 123, 124, 125, and 127; repetition: “ought to be” in lines \n124 and 127) \nState Jefferson’s theme, and how these devices reinforce it. \n(Jefferson’s theme is that the colonies are now independent. The clauses beginning with that emphasize the \nseparation. The repetition of ought to be reinforces the idea that independence is justified.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 8,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "63fdc13cceeaa84587fae04819cfc4216cc44c8883bb080b77ad30695485fa38": {
+    "text": "Analyze Structure: Style and Content \n(LINES 119–133)\nBoth word choice and syntax contribute to a writer’s tone. Read the final paragraph of The \nDeclaration of Independence. Discuss general impressions of Jefferson’s attitude toward his topic.\nCITE TEXT EVIDENCE: Describe Jefferson’s tone in lines 119–133. \n(Possible answers: direct, reverent, confident, determined)\nWhat words help create the tone? \n(Possible answers: solemnly, publish and declare, absolved, free and independent, full power, of \nright) \nHow does the syntax help create the tone? \n(The arrangement of Jefferson’s words, phrases, and clauses in long sentences makes the language \nformal and creates a confident and determined tone that embodies the seriousness and firmness of \nthe colonies’ decision to declare independence.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 9,
+    "user_id": 1,
+    "document_id": 3
+  },
+  "79f2d2f07f69d29faf44b0d70150928987871ec66a162690e4261ce56ea28995": {
+    "text": "Critical Vocabulary\nestablish: to formally set up. Jefferson warns that an existing government should not be changed impulsively. \nWhat is the advantage of maintaining an established government? (An established government ensures stability \nand order.) \naffect: to cause or influence. Because of the King’s actions and decisions, British soldiers were not accountable to \nthe government of the colonies. How the King’s empowerment of British soldiers affected the colonists. (The \ncolonists had no way to defend themselves from the actions of British soldiers.) \ninvest: to grant or endow. Quebec claimed it had been granted power to govern parts of the colonies. Why \nJefferson rejects the idea that Quebec was invested by Great Britain with the power to legislate for the colonies. \n(Quebec can’t be endowed, or invested, with this power because Great Britain cannot grant something it does \nnot rightfully have.) \nabdicate: to relinquish or cede responsibility for. Jefferson argues that the King gave up his right to govern the \ncolonies. How the King’s actions show that he has abdicated his role as a trustworthy leader by acting like a \ntyrant. (The king’s actions include increasing the military’s power over the colonies, imposing taxes on them, \ndeporting colonists, and destroying colonists’ land and property without recourse. His actions indicate that he \nestablished unjust, punitive policies, abdicating his responsibility to treat the colonies fairly.)",
+    "source": "The_Declaration_of_Independence.pdf",
+    "page": 10,
+    "user_id": 1,
+    "document_id": 3
   }
 }
